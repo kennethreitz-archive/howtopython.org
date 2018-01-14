@@ -9,6 +9,9 @@ Of course, that last part is optional — you are totally free to code Python on
 Twitter Accounts to Follow
 —————————————————————————-
 
+Twitter is an excellent way to keep in touch with what's going on with the Python community.
+
+- ThePSF
 
 - Kenneth Reitz (@kennethreitz) — Myself, the author of this website. I often tweet about Python–related topics, as well as music, photography, and other side-projects I have going on.
 
