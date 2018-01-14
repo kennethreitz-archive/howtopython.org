@@ -3,13 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to howtopython's documentation!
-=======================================
+Welcome to **How to Python**!
+=============================
+
+This guide exists to teach you the very basics of how to effectively use Python and its tooling, as a programming language.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   getting-started
+   the-interpreter
+   learning-the-basics
+   editor
+   IDE
 
 
 Indices and tables
