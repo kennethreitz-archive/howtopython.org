@@ -1,7 +1,16 @@
 The Interpreter
 ===============
 
+Python is an interpreted language, similiar in the way to how Java operates, with bytecode. However, unlike Java, you will normally work with ``*.py`` files directly, instead of compiled bytecode files (``*.pyc``).
 
+To fire up the Python interpreter, open up your terminal/console application, and type ``python`` or ``python3`` (depending on your installation). You should see something that looks like this::
+
+	Python 3.6.3 (default, Oct  3 2017, 21:45:48) 
+	[GCC 7.2.0] on linux
+	Type "help", "copyright", "credits" or "license" for more information.
+	>>> 
+	
+This is known as the Python interpreter, and is a REPL (Read–Eval–Print Loop). This allows you to type Python code, import modules, and interact with code you've written without having to write files to disk, in an interactive manner. This interactive mode is one of Python's super-powers, compared some other programming lanuages.
 
 Tricks
 —————-
