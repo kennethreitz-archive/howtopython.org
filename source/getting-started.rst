@@ -11,25 +11,25 @@ Twitter Accounts to Follow
 
 Twitter is an excellent way to keep in touch with what's going on with the Python community.
 
-- ThePSF
+- ThePSF (@ThePSF)
 
 - Kenneth Reitz (@kennethreitz) — Myself, the author of this website. I often tweet about Python–related topics, as well as music, photography, and other side-projects I have going on.
 
-- Guido Van Rossom (@) — The creator of Python itself. Doesn't tweet much, but is occassionally accessable. Very kind soul. Keep in mind, he gets a lot of attention.
+- Guido Van Rossum (@gvanrossum) — The creator of Python itself. Doesn't tweet much, but is occassionally accessable. Very kind soul. Keep in mind, he gets a lot of attention.
 
 - Nick Coghlan (@ncoghlan_dev) — Core Python developer, very active on Twitter, has very thoughtful thoughts about Open Source and the direction of Python in general.
 
-- Lynn Root (@) — Closely related to PyLadies, Lynn shares candid thoughts about 
+- Lynn Root (@roguelynn) — Closely related to PyLadies, Lynn shares candid thoughts about 
 
 - Armin Ronacher (@mitsuhiko) — The creator of Flask, Click, Sphinx, and many other wonderful Python utilities we all know and love. Mostly found writing iOS and Rust code nowadays.
 
-- Corey Benfield 
+- Corey Benfield (@lukasaoz)
 
-- Alex Gaynor
+- Alex Gaynor (@alex_gaynor)
 
-- Yarko 
+- Yarko (@yarkot)
 
-- David Beazley
+- David Beazley (@dabeaz)
 
 - Jeff Forcier (@bitprophet) — The creator of Fabric, and maintiner of many open source libraries. 
 
