@@ -36,7 +36,7 @@ Twitter is an excellent way to keep in touch with what's going on with the Pytho
 Getting Python Installed
 ------------------------
 
-Of course, the first thing you need to do is install Python on your machine. If you go to the Python.org website, you may be a bit confused about which version of Python you should be using. The correct answer is:
+Of course, the first thing you need to do is install Python on your machine. If you go to the Python.org website, you may be a bit confused about which version of Python you should be using. *The correct answer is:*
 
 **Use the latest version of Python 3.** As of the time of this writing, that is version **3.6.4**. 
 
