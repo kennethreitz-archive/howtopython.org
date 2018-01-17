@@ -9,7 +9,7 @@ Of course, that last part is optional — you are totally free to code Python on
 Twitter Accounts to Follow
 --------------------------
 
-Twitter is an excellent way to keep in touch with what's going on with the Python community.
+Twitter is an excellent way to keep in touch with what's going on with the Python community. Here is a very non–exhaustive (but evolving) list of some suggetions of who to follow on Twitter, to get started:
 
 - **The Python Software Foundation** (`@ThePSF <https://twitter.com/ThePSF>`_)
 
