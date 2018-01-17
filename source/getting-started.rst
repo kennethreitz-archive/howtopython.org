@@ -11,27 +11,27 @@ Twitter Accounts to Follow
 
 Twitter is an excellent way to keep in touch with what's going on with the Python community.
 
-- The Python Software Foundation (`@ThePSF <https://twitter.com/ThePSF>`_)
+- **The Python Software Foundation** (`@ThePSF <https://twitter.com/ThePSF>`_)
 
-- Kenneth Reitz (`@kennehreitz <https://twitter.com/kennethreitz>`_) — Myself, the author of this website. I often tweet about Python–related topics, as well as music, photography, and other side-projects I have going on.
+- **Kenneth Reitz** (`@kennehreitz <https://twitter.com/kennethreitz>`_) — Myself, the author of this website. I often tweet about Python–related topics, as well as music, photography, and other side-projects I have going on.
 
-- Guido Van Rossom (`@gvanrossum <https://twitter.com/gvanrossum>`_) — The creator of Python itself. Doesn't tweet much, but is occassionally accessable. Very kind soul. Keep in mind, he gets a lot of attention.
+- **Guido Van Rossom** (`@gvanrossum <https://twitter.com/gvanrossum>`_) — The creator of Python itself. Doesn't tweet much, but is occassionally accessable. Very kind soul. Keep in mind, he gets a lot of attention.
 
-- Nick Coghlan (`@ncoghlan_dev <https://twitter.com/ncoghlan_dev>`_) — Core Python developer, very active on Twitter, has very thoughtful thoughts about Open Source and the direction of Python in general.
+- **Nick Coghlan** (`@ncoghlan_dev <https://twitter.com/ncoghlan_dev>`_) — Core Python developer, very active on Twitter, has very thoughtful thoughts about Open Source and the direction of Python in general.
 
-- Lynn Root (`@rougelynn <https://twitter.com/rougelynn>`_) — Closely related to PyLadies.
+- **Lynn Root** (`@rougelynn <https://twitter.com/rougelynn>`_) — Closely related to PyLadies.
 
-- Armin Ronacher (`@mitsuhiko <https://twitter.com/mitsuhiko>`_) — The creator of Flask, Click, Sphinx, and many other wonderful Python utilities we all know and love. Mostly found writing iOS and Rust code nowadays.
+- **Armin Ronacher** (`@mitsuhiko <https://twitter.com/mitsuhiko>`_) — The creator of Flask, Click, Sphinx, and many other wonderful Python utilities we all know and love. Mostly found writing iOS and Rust code nowadays.
 
-- Corey Benfield (`@ <https://twitter.com/coreybenfield>`_)
+- **Corey Benfield** (`@ <https://twitter.com/coreybenfield>`_)
 
-- Alex Gaynor (`@alex_gaynor <https://twitter.com/alex_gaynor>`_)
+- **Alex Gaynor** (`@alex_gaynor <https://twitter.com/alex_gaynor>`_)
 
-- Yarko T.(`@yarkot <https://twitter.com/yarkot>`_)
+- **Yarko T.** (`@yarkot <https://twitter.com/yarkot>`_)
 
-- David Beazley (`@ <https://twitter.com/>`_)
+- **David Beazley** (`@ <https://twitter.com/>`_)
 
-- Jeff Forcier (`@bitprophet <https://twitter.com/bitprophet>`_) — The creator of Fabric, and maintiner of many open source libraries. 
+- **Jeff Forcier** (`@bitprophet <https://twitter.com/bitprophet>`_) — The creator of Fabric, and maintiner of many open source libraries. 
 
 Getting Python Installed
 ------------------------
