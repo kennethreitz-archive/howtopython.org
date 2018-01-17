@@ -55,3 +55,10 @@ The next step is to install *Pipenv*, our packaging tool of choice. Package mang
 Python.org has a `great guide <https://packaging.python.org/tutorials/managing-dependencies/>`_ available for installing Pipenv that also covers its basic usage.
 
 Here's a great `blog post <https://bryson3gps.wordpress.com/2017/11/08/stop-everything-start-using-pipenv/>`_ covering the basic concepts presented by Pipenv, and why it's an excellent choice for your first project. 
+
+Using Pipenv
+------------
+
+First, ``$ cd`` into your new project directory (after you ``$ mkdir`` and ``$ git init`` it, of course), and simply run ``$ pipenv install requests`` to instal the `requests <https://docs.python-requests.org/>`_ library, which is one of our favorites. 
+
+Then, run ``$ pipenv shell`` to run a shell that will have a ``$ python`` available in which ``import reqests`` will function properly. Pretty simple :)
