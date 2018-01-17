@@ -15,6 +15,19 @@ This is known as the Python interpreter, and is a REPL (Read–Eval–Print Loop
 Tricks
 ++++++
 
+``_`` Trick
+///////////
+
+The ``_`` variable can be used to reference the last thing that was eval'd (e.g. automatically printed to the screen). For example::
+
+    >>> 1
+    1
+    >>> a = _
+    >>> print(a)
+    1
+    
+Very useful when using the interactive interpreter!
+
 Bytecode Trick
 //////////////
 
