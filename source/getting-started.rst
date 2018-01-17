@@ -11,7 +11,7 @@ Twitter Accounts to Follow
 
 Twitter is an excellent way to keep in touch with what's going on with the Python community.
 
-- ThePSF
+- The Python Software Foundation (`@ThePSF <https://twitter.com/ThePSF>`_)
 
 - Kenneth Reitz (@kennethreitz) — Myself, the author of this website. I often tweet about Python–related topics, as well as music, photography, and other side-projects I have going on.
 
