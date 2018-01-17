@@ -9,7 +9,7 @@ Welcome to **How to Python**!
 This guide exists to teach you the very basics of how to effectively use Python and its tooling, as a programming language.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    getting-started
