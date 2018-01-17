@@ -15,4 +15,4 @@ PEPs
 
 PEPs (Python Enhncement Proposals) are the documents/process through which Python gets enhanced and changed, over time. The most infamous PEP is `PEP8 <http://pep8.org/>`_, which documents how to properly style Python code within the community. 
 
-Anyone can propose a PEP. It's a long process, for good reasons — you have to convince a lot of people that your idea is a good one.
+Anyone can propose a PEP, even you! It's a long process, for good reasons — you have to convince a lot of people that your idea is a good one.
