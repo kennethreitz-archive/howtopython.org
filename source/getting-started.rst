@@ -23,7 +23,7 @@ Twitter is an excellent way to keep in touch with what's going on with the Pytho
 
 - **Armin Ronacher** (`@mitsuhiko <https://twitter.com/mitsuhiko>`_) — The creator of Flask, Click, Sphinx, and many other wonderful Python utilities we all know and love. Mostly found writing iOS and Rust code nowadays.
 
-- **Corey Benfield** (`@ <https://twitter.com/coreybenfield>`_)
+- **Corey Benfield** (`@Lukasaoz <https://twitter.com/Lukasaoz>`_)
 
 - **Alex Gaynor** (`@alex_gaynor <https://twitter.com/alex_gaynor>`_)
 
