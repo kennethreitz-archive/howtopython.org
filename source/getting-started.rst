@@ -42,9 +42,9 @@ Of course, the first thing you need to do is install Python on your machine. If 
 
 Here are some great installation guides for various system types:
 
-- Installing Python 3 Properly on MacOS
-- Installing Python 3 Properly on Linux
-- Installing Python 3 Properly on Windows
+- `Installing Python 3 Properly on MacOS <http://docs.python-guide.org/en/latest/starting/install3/osx/>`_
+- `Installing Python 3 Properly on Linux <http://docs.python-guide.org/en/latest/starting/install3/linux/>`_
+- `Installing Python 3 Properly on Windows <http://docs.python-guide.org/en/latest/starting/install3/windows/>`_
 
 Installing Pipenv
 ————————————————-
