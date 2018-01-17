@@ -13,7 +13,7 @@ To fire up the Python interpreter, open up your terminal/console application, an
 This is known as the Python interpreter, and is a REPL (Read–Eval–Print Loop). This allows you to type Python code, import modules, and interact with code you've written without having to write files to disk, in an interactive manner. This interactive mode is one of Python's super-powers, compared some other programming lanuages.
 
 Tricks
-—————-
+++++++
 
 Bytecode Trick
 //////////////
