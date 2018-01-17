@@ -55,7 +55,7 @@ Here are some great installation guides for various system types:
 Understanding Dependencies
 --------------------------
 
-Applications, scripts, and utlities built with Python typicaly have *dependencies* attached to them, which are Python modules they require to run/operate with, that need to be installed before you can use the sotware.
+Applications, scripts, and utlities built with Python typicaly have *dependencies* attached to them, which are Python modules they require to run/operate with, that need to be installed before you can use the software.
 
 A package manager, like *Pipenv* (which we'll cover shortly), or the lower–level *pip* (in conjunction with *virtalenv* can be used to install and manage these dependencies, which are typically hosted on either on `PyPi (The Python Package Index) <https://pypi.python.org/>`_ or `GitHub <https://github.com/>`_.
 
