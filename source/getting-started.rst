@@ -29,7 +29,7 @@ Twitter is an excellent way to keep in touch with what's going on with the Pytho
 
 - **Yarko T.** (`@yarkot <https://twitter.com/yarkot>`_)
 
-- **David Beazley** (`@ <https://twitter.com/>`_)
+- **David Beazley** (`@dabeaz <https://twitter.com/dabeaz>`_)
 
 - **Jeff Forcier** (`@bitprophet <https://twitter.com/bitprophet>`_) — The creator of Fabric, and maintiner of many open source libraries. 
 
