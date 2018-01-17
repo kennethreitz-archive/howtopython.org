@@ -62,3 +62,5 @@ Using Pipenv
 First, ``$ cd`` into your new project directory (after you ``$ mkdir`` and ``$ git init`` it, of course), and simply run ``$ pipenv install requests`` to instal the `requests <https://docs.python-requests.org/>`_ library, which is one of our favorites. 
 
 Then, run ``$ pipenv shell`` to run a shell that will have a ``$ python`` available in which ``import reqests`` will function properly. Pretty simple :)
+
+For further instructions, check out `the Pipenv documentation <https://pipenv.org>`_.
