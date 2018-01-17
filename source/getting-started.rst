@@ -7,7 +7,7 @@ Of course, that last part is optional — you are totally free to code Python on
 
 
 Twitter Accounts to Follow
-—————————————————————————-
+--------------------------
 
 Twitter is an excellent way to keep in touch with what's going on with the Python community.
 
@@ -34,7 +34,7 @@ Twitter is an excellent way to keep in touch with what's going on with the Pytho
 - Jeff Forcier (@bitprophet) — The creator of Fabric, and maintiner of many open source libraries. 
 
 Getting Python Installed
-———————————————————————-
+------------------------
 
 Of course, the first thing you need to do is install Python on your machine. If you go to the Python.org website, you may be a bit confused about which version of Python you should be using. The correct answer is:
 
@@ -47,7 +47,7 @@ Here are some great installation guides for various system types:
 - `Installing Python 3 Properly on Windows <http://docs.python-guide.org/en/latest/starting/install3/windows/>`_
 
 Installing Pipenv
-————————————————-
+-----------------
 
 The next step is to install *Pipenv*, our packaging tool of choice. Package mangers allow us to easily manage (resolve, install, uninstall) dependencies and virtual environments for projects.
 
