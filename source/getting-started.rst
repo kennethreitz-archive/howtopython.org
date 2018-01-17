@@ -33,6 +33,10 @@ Twitter is an excellent way to keep in touch with what's going on with the Pytho
 
 - **Brett Cannon** (`@brettsky <https://twitter.com/brettsky>`_)
 
+- **Danny Greenfield** (`@pydanny <https://twitter.com/pydanny>`_)
+
+- **Raymond Hettinger** (`@raymondh <https://twitter.com/raymondh>`_)
+
 - **Jeff Forcier** (`@bitprophet <https://twitter.com/bitprophet>`_) — The creator of Fabric, and maintiner of many open source libraries. 
 
 Getting Python Installed
