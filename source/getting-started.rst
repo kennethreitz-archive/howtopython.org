@@ -17,7 +17,7 @@ Twitter is an excellent way to keep in touch with what's going on with the Pytho
 
 - Guido Van Rossom (`@gvanrossum <https://twitter.com/gvanrossum>`_) — The creator of Python itself. Doesn't tweet much, but is occassionally accessable. Very kind soul. Keep in mind, he gets a lot of attention.
 
-- Nick Coghlan (@ncoghlan_dev`@ <https://twitter.com/>`_) — Core Python developer, very active on Twitter, has very thoughtful thoughts about Open Source and the direction of Python in general.
+- Nick Coghlan (`@ncoghlan_dev <https://twitter.com/ncoghlan_dev>`_) — Core Python developer, very active on Twitter, has very thoughtful thoughts about Open Source and the direction of Python in general.
 
 - Lynn Root (`@rougelynn <https://twitter.com/rougelynn>`_) — Closely related to PyLadies.
 
