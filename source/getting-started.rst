@@ -54,4 +54,4 @@ The next step is to install *Pipenv*, our packaging tool of choice. Package mang
 
 Python.org has a `great guide <https://packaging.python.org/tutorials/managing-dependencies/>`_ available for installing Pipenv that also covers its basic usage.
 
-Here's a great `blog post <https://bryson3gps.wordpress.com/2017/11/08/stop-everything-start-using-pipenv/>` covering the basic concepts presented by Pipenv, and why it's an excellent choice for your first project. 
+Here's a great `blog post <https://bryson3gps.wordpress.com/2017/11/08/stop-everything-start-using-pipenv/>`_ covering the basic concepts presented by Pipenv, and why it's an excellent choice for your first project. 
