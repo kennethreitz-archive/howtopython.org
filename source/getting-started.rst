@@ -37,7 +37,7 @@ Twitter is an excellent way to keep in touch with what's going on with the Pytho
 
 - **Raymond Hettinger** (`@raymondh <https://twitter.com/raymondh>`_)
 
-- **Jeff Forcier** (`@bitprophet <https://twitter.com/bitprophet>`_) — The creator of Fabric, and maintiner of many open source libraries. 
+- **Jeff Forcier** (`@bitprophet <https://twitter.com/bitprophet>`_) — The creator of Fabric, and maintainer of many open source libraries. 
 
 Getting Python Installed
 ------------------------
@@ -77,7 +77,7 @@ Here's a great `blog post <https://bryson3gps.wordpress.com/2017/11/08/stop-ever
 Using Pipenv
 ------------
 
-First, ``$ cd`` into your new project directory (after you ``$ mkdir`` and ``$ git init`` it, of course), and simply run ``$ pipenv install requests`` to instal the `requests <https://docs.python-requests.org/>`_ library, which is one of our favorites. 
+First, ``$ cd`` into your new project directory (after you ``$ mkdir`` and ``$ git init`` it, of course), and simply run ``$ pipenv install requests`` to install the `requests <https://docs.python-requests.org/>`_ library, which is one of our favorites. 
 
 Then, run ``$ pipenv shell`` to run a shell that will have a ``$ python`` available in which ``import reqests`` will function properly. Pretty simple :)
 
