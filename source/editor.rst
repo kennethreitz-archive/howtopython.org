@@ -54,3 +54,32 @@ Microsoft VS Code
 -----------------
 
 Microsoft VS Code guides you through setting up the Python package, built by Microsoft themselves, the first time you run it. 
+
+Microsoft VS Code Extensions Recommendations
++++++++++++++++++++++++++++++++++++++
+
+- Python extension for Visual Studio Code
+    by Microsoft
+    Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, Data Science (with Jupyter), PySpark and more.
+- vscode-flake8
+- Jupyter
+    Data Science with Jupyter on Visual Studio Code.
+- MagicPython
+    Syntax highlighter for cutting edge Python.
+- Django Template
+    Django template language support for Visual Studio Code.
+- Django Snippets
+    Common Django snippets for everyday use.
+
+Microsoft VS Code Tricks
++++++++++++++++++++++
+
+Select a version of Python using Ctrl+Shift+P:
+    "Python: Select Interpreter"
+
+``Microsoft VS Code`` Launcher
+/////////////////
+
+
+Rulers
+//////
