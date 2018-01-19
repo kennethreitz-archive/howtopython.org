@@ -46,6 +46,8 @@ Sublime Text 3 Tricks
 ``subl`` Launcher
 /////////////////
 
+Once installed, the command–line ``subl`` launcher will allow you to easily open up projects from your terminal (e.g. ``$ subl .``). In addition, it also will inform plugins like Anaconda of which Python interpreter to use, based on the currently activated virtual environment.
+
 
 Rulers
 //////
