@@ -35,11 +35,18 @@ Sublime Text doesn't support all of these things by itself, but it comes with a 
 Sublime Text 3 Plugin Recommendations
 +++++++++++++++++++++++++++++++++++++
 
-- Package Control
-- Anaconda
-- Autocompleter?
-- Flake8?
-- GitSavvy
+- `Package Control <https://packagecontrol.io/installation>`_
+    Sublime's Package Manager — can be installed via **
+- `Anaconda <https://packagecontrol.io/packages/Anaconda>`_
+    Fantastic "Python IDE" for Sublime Text, which offers code linting, PEP8 support, and auto–completion. Works great with Pipenv (and the ``subl`` launcher). Highly recommended.
+
+Additionally Useful Plugins
++++++++++++++++++++++++++++
+
+- `GitSavvy <https://packagecontrol.io/packages/GitSavvy>`_
+    Allows you to git push/pull/stage right from Sublime Text.
+- `GitGutter <https://packagecontrol.io/packages/GitGutter>`_
+    Places the current git status of edited lines in your gutter. Very useful.
 
 Sublime Text 3 Tricks
 +++++++++++++++++++++
