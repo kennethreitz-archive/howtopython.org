@@ -54,7 +54,7 @@ Once installed, the command–line ``subl`` launcher will allow you to easily op
 Rulers
 //////
 
-According to `PEP8 <http://pep8.org/#maximum-line-length>`_, all lines of Python should typically be set to a maximum length of 79 charecters (72 if documentation).
+According to `PEP8 <http://pep8.org/#maximum-line-length>`_, all lines of Python should typically be set to a maximum length of 79 characters (72 if documentation).
 
 Let's configure Sublime Text to display these rulers. Go into *Preferences ➞ Settings*, and add the following JSON::
 
@@ -63,7 +63,7 @@ Let's configure Sublime Text to display these rulers. Go into *Preferences ➞ S
     	79,
     ],
 
-Now, you'll see nice horizontal lines at 72 and 79 charecters, informing you of how long your lines are!
+Now, you'll see nice horizontal lines at 72 and 79 characters, informing you of how long your lines are!
 
 
 
