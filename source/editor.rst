@@ -60,7 +60,7 @@ Microsoft VS Code
 Microsoft VS Code guides you through setting up the Python package, built by Microsoft themselves, the first time you run it.
 
 Microsoft VS Code Extensions Recommendations
-+++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++
 
 - Python extension for Visual Studio Code
     by Microsoft
@@ -70,7 +70,7 @@ Microsoft VS Code Extensions Recommendations
     Syntax highlighter for cutting edge Python.
 
 Additionally Helpful Plugins
-````````````````````````````
+++++++++++++++++++++++++++++
 
 - Jupyter
     Data Science with Jupyter on Visual Studio Code.
