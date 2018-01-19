@@ -110,8 +110,8 @@ Additionally Helpful Plugins
 Microsoft VS Code Tricks
 +++++++++++++++++++++
 
-Select a version of Python using Ctrl+Shift+P:
-    "Python: Select Interpreter"
+Select a version of Python using *Ctrl + Shift + P*:
+    "*Python: Select Interpreter*"
 
 ``Microsoft VS Code`` Launcher
 /////////////////
