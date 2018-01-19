@@ -57,7 +57,9 @@ According to `PEP8 <http://pep8.org/#maximum-line-length>`_, all lines of Python
     "rulers": [
     	72,
     	79,
-],
+    ],
+
+Now, you'll see nice horizontal lines at 72 and 79 charecters, informing you of how long your lines are!
 
 
 
