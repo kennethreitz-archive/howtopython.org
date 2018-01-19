@@ -92,7 +92,7 @@ Microsoft VS Code guides you through setting up the Python package, built by Mic
 Microsoft VS Code Extensions Recommendations
 ++++++++++++++++++++++++++++++++++++++++++++
 
-- Python extension for Visual Studio Code
+- Python Extension for Visual Studio Code
     by Microsoft
     Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, Data Science (with Jupyter), PySpark and more.
 - vscode-flake8
