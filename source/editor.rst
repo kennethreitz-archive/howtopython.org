@@ -9,19 +9,22 @@ The functional difference between these two editors is small — they both accom
 
 I personally use an vastly prefer *Sublime Text 3* to all other options available. It's easily my favorite editor. If it didn't exist though, I'd be using *VS Code*.
 
-Python Requirements for a Text Editor
--------------------------------------
 
-There are a few soft "requirements" for a text editors
+.. note::
 
-- Support for "soft tabs"
-- Support for visible whitespace (this is crucial when working with Python files)
+    Python Requirements for a Text Editor
+    -------------------------------------
 
-Nice–to–haves:
+    There are a few soft "requirements" for a text editors
 
-- Support for "rulers", which show a horizontal line at line 79, as PEP8 recommends.
-- Built-in linter for showing sytax errors as you type.
-- Built-in support for Flake8, which enforces PEP8 standards as you type.
+    - Support for "soft tabs"
+    - Support for visible whitespace (this is crucial when working with Python files)
+
+    Nice–to–haves:
+
+    - Support for "rulers", which show a horizontal line at line 79, as PEP8 recommends.
+    - Built-in linter for showing sytax errors as you type.
+    - Built-in support for Flake8, which enforces PEP8 standards as you type.
 
 
 Sublime Text 3
