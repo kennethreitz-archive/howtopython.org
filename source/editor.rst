@@ -27,7 +27,7 @@ Nice–to–haves:
 Sublime Text 3
 --------------
 
-.. image:: ../_static/sublime.png
+.. image:: /_static/sublime.png
 
 Sublime Text doesn't support all of these things by itself, but it comes with a great system called *Package Control*, which allows for easy installation/management of third-party plugins.
 
