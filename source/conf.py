@@ -51,7 +51,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'howtopython'
-copyright = u'2016. A <a href="http://kennethreitz.com/pages/open-projects.html">Kenneth Reitz</a> Project. <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>'
+copyright = u'2018. A <a href="http://kennethreitz.com/pages/open-projects.html">Kenneth Reitz</a> Project. <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>'
 author = 'Kenneth Reitz'
 
 # The version info for the project you're documenting, acts as replacement for
