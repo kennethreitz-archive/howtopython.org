@@ -82,8 +82,10 @@ Now, you'll see nice horizontal lines at 72 and 79 characters, informing you of 
 
 
 
-Microsoft VS Code
------------------
+Microsoft Visual Studio Code (VS Code)
+--------------------------------------
+
+.. image:: /_static/vscode.png
 
 Microsoft VS Code guides you through setting up the Python package, built by Microsoft themselves, the first time you run it.
 
