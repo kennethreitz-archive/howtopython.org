@@ -56,7 +56,7 @@ Python Interpreter Tricks
 -------------------------
 
 ``_`` Trick
-///////////
++++++++++++
 
 The ``_`` variable can be used to reference the last thing that was eval'd (e.g. automatically printed to the screen). For example::
 
@@ -69,7 +69,7 @@ The ``_`` variable can be used to reference the last thing that was eval'd (e.g.
 Very useful when using the interactive interpreter!
 
 Bytecode Trick
-//////////////
+++++++++++++++
 
 There are a few tricks the interpreter has up its sleeve that I recommend you utilize on a regular basis.
 
@@ -77,8 +77,8 @@ The first trick is ``PYTHONDONTWRITEBYTECODE``. If you set this environment vari
 
 I've been using this environment variable for 7+ years for development and have never had any problems becaue of it.
 
-Interactive Trick
-/////////////////
+Interactive Mode Trick
+++++++++++++++++++++++
 
 The second trick is to run a Python script, say ``hello.py`` in "interactive" mode, with the ``$ python -i hello.py`` flag.
 
