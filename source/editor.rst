@@ -60,7 +60,11 @@ Sublime Text 3 Tricks
 
 Once installed, the command–line ``subl`` launcher will allow you to easily open up projects from your terminal (e.g. ``$ subl .``). In addition, it also will inform plugins like Anaconda of which Python interpreter to use, based on the currently activated virtual environment.
 
-Here's `some short documentation <https://www.sublimetext.com/docs/2/osx_command_line.html>`_ on how to enable ``subl`` in your environment, if you're on a mac.
+To enable this shortcut, if you're on a Mac, do the following:
+
+    $ ln -s "/Applications/Sublime Text 3.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+
+Then, the ``subl`` command will be available to you, always.
 
 Rulers
 //////
