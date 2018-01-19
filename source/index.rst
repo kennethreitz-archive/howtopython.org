@@ -16,7 +16,7 @@ This guide exists to teach you the very basics of how to effectively use Python 
    the-interpreter
    learning-the-basics
    editor
-   IDE
+   ide
 
 
 Indices and tables
