@@ -5,6 +5,8 @@ Writing Python code typically involves what it known as a Text Editor. Our recom
 
 The functional difference between these two editors is small — they both accomplish the same things, effectively. Which one you chose is a matter of personal taste. There are other editors, like *vim*, *Atom*, or *emacs*, which you may chose to use instead. Whatever works best for you is best.
 
+----------------
+
 I personally use an vastly prefer *Sublime Text 3* to all other options available. It's easily my favorite editor. If it didn't exist though, I'd be using *VS Code*.
 
 Python Requirements for a Text Editor
