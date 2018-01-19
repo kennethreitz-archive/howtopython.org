@@ -15,7 +15,7 @@ I personally use an vastly prefer *Sublime Text 3* to all other options availabl
     Python Requirements for a Text Editor
     -------------------------------------
 
-    There are a few soft "requirements" for a text editor to have, when working professionally (or recreationally), with Python code:
+    There are a few "soft requirements" for a text editor to have, when working professionally (or recreationally), with Python code:
 
     - Support for "soft tabs"
     - Support for visible whitespace (this is crucial when working with Python files)
