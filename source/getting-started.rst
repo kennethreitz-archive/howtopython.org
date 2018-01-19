@@ -37,14 +37,14 @@ Twitter is an excellent way to keep in touch with what's going on with the Pytho
 
 - **Raymond Hettinger** (`@raymondh <https://twitter.com/raymondh>`_)
 
-- **Jeff Forcier** (`@bitprophet <https://twitter.com/bitprophet>`_) — The creator of Fabric, and maintainer of many open source libraries. 
+- **Jeff Forcier** (`@bitprophet <https://twitter.com/bitprophet>`_) — The creator of Fabric, and maintainer of many open source libraries.
 
 Getting Python Installed
 ------------------------
 
 Of course, the first thing you need to do is install Python on your machine. If you go to the Python.org website, you may be a bit confused about which version of Python you should be using. *The correct answer is:*
 
-**Use the latest version of Python 3.** As of the time of this writing, that is version **3.6.4**. 
+**Use the latest version of Python 3.** As of the time of this writing, that is version **3.6.4**.
 
 Here are some great installation guides for various system types:
 
@@ -59,7 +59,7 @@ Applications, scripts, and utlities built with Python typicaly have *dependencie
 
 A package manager, like *Pipenv* (which we'll cover shortly), or the lower–level *pip* (in conjunction with *virtalenv* can be used to install and manage these dependencies, which are typically hosted on either on `PyPi (The Python Package Index) <https://pypi.python.org/>`_ or `GitHub <https://github.com/>`_.
 
-You'll typically see these required packages (and any specific versions) declared in one of the following files: ``Pipfile``, ``requirements.txt``, or ``setup.py``. 
+You'll typically see these required packages (and any specific versions) declared in one of the following files: ``Pipfile``, ``requirements.txt``, or ``setup.py``.
 
 Installing Pipenv
 -----------------
@@ -71,14 +71,21 @@ Python.org has a `great guide <https://packaging.python.org/tutorials/managing-d
 If you're on a Mac, and have `homebrew <https://brew.sh>`_ installed, the following command will suffice::
 
     $ brew install pipenv
-    
-Here's a great `blog post <https://bryson3gps.wordpress.com/2017/11/08/stop-everything-start-using-pipenv/>`_ covering the basic concepts presented by Pipenv, and why it's an excellent choice for your first project. 
+
+Here's a great `blog post <https://bryson3gps.wordpress.com/2017/11/08/stop-everything-start-using-pipenv/>`_ covering the basic concepts presented by Pipenv, and why it's an excellent choice for your first project.
 
 Using Pipenv
 ------------
 
-First, ``$ cd`` into your new project directory (after you ``$ mkdir`` and ``$ git init`` it, of course), and simply run ``$ pipenv install requests`` to install the `requests <https://docs.python-requests.org/>`_ library, which is one of our favorites. 
+First, ``$ cd`` into your new project directory (after you ``$ mkdir`` and ``$ git init`` it, of course), and simply run ``$ pipenv install requests`` to install the `requests <https://docs.python-requests.org/>`_ library, which is one of our favorites.
 
 Then, run ``$ pipenv shell`` to run a shell that will have a ``$ python`` available in which ``import reqests`` will function properly. Pretty simple :)
 
 For further instructions, check out `the Pipenv documentation <https://pipenv.org>`_.
+
+Understanding Source Control
+----------------------------
+
+In the Python community, we typically use `git <https://git-scm.org/>`_, a *version control system*. Tools, like git, are used to store all changes to code files, so you can go back to any point in history and reference yourself later if needed. They are also very useful for collaborating with others.
+
+Git is a bit tricky to get started with, but `here's a great guide <https://git-scm.com/book/en/v1/Getting-Started>`_ that will get you setup and teach you the basics. It's a requirement if you're ever going to work with Python in a professional environment.
