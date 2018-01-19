@@ -66,8 +66,8 @@ To enable this shortcut, if you're on a Mac, do the following:
 
 Then, the ``subl`` command will be available to you, always.
 
-Rulers
-//////
+PEP8 Rulers
+///////////
 
 According to `PEP8 <http://pep8.org/#maximum-line-length>`_, all lines of Python should typically be set to a maximum length of 79 characters (72 if documentation).
 
