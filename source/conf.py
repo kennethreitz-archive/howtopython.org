@@ -121,7 +121,7 @@ html_sidebars = {
 
 html_title = 'How to Python!'
 
-
+html_show_sphinx = False
 
 # -- Options for HTMLHelp output ------------------------------------------
 
