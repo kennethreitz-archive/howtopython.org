@@ -78,7 +78,7 @@ Let's configure Sublime Text to display these rulers. Go into *Preferences ➞ S
     	79,
     ],
 
-Now, you'll see nice horizontal lines at 72 and 79 characters, informing you of how long your lines are!
+Now, you'll see nice vertical lines at 72 and 79 characters, informing you of how long your lines are!
 
 
 
