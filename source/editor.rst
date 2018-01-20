@@ -89,6 +89,8 @@ Microsoft Visual Studio Code (VS Code)
 
 Microsoft VS Code guides you through setting up the Python package, built by Microsoft themselves, the first time you run it.
 
+VS Code comes built in with git support and a package system that allows you to customize the editor to your liking. It is built upon Electron (just like Github's Atom editor) and thus works on various platforms.
+
 Microsoft VS Code Extensions Recommendations
 ++++++++++++++++++++++++++++++++++++++++++++
 
@@ -98,6 +100,8 @@ Microsoft VS Code Extensions Recommendations
 - vscode-flake8
 - MagicPython
     Syntax highlighter for cutting edge Python.
+- Python Extension Pack
+    Don Jayamanne's extension pack installs all the useful Python packages for VS Code in one fell swoop.
 
 Additionally Helpful Plugins
 ++++++++++++++++++++++++++++
@@ -114,6 +118,8 @@ Microsoft VS Code Tricks
 
 Select a version of Python using *Ctrl + Shift + P*:
     "*Python: Select Interpreter*"
+
+You can run your code using the integrated terminal. Open it using *Ctrl + `*.
 
 ``Microsoft VS Code`` Launcher
 /////////////////
