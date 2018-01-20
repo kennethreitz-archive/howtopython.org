@@ -7,7 +7,7 @@ The functional difference between these two editors is small — they both accom
 
 ----------------
 
-I personally use an vastly prefer *Sublime Text 3* to all other options available. It's easily my favorite editor. If it didn't exist though, I'd be using *VS Code*.
+I personally use and vastly prefer *Sublime Text 3* to all other options available. It's easily my favorite editor. If it didn't exist though, I'd be using *VS Code*.
 
 
 .. note::
@@ -22,7 +22,7 @@ I personally use an vastly prefer *Sublime Text 3* to all other options availabl
 
     Nice–to–haves:
 
-    - Support for "rulers", which show a horizontal line at line 79, as PEP8 recommends.
+    - Support for "rulers", which show a vertical line after the 79th character, as PEP8 recommends.
     - Built-in linter for showing sytax errors as you type.
     - Built-in support for Flake8, which enforces PEP8 standards as you type.
 
