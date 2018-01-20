@@ -19,7 +19,7 @@ Twitter is an excellent way to keep in touch with what's going on with the Pytho
 
 - **Nick Coghlan** (`@ncoghlan_dev <https://twitter.com/ncoghlan_dev>`_) — Core Python developer, very active on Twitter, has very thoughtful thoughts about Open Source and the direction of Python in general.
 
-- **Lynn Root** (`@rougelynn <https://twitter.com/rougelynn>`_) — Closely related to PyLadies.
+- **Lynn Root** (`@roguelynn <https://twitter.com/roguelynn>`_) — Closely related to PyLadies.
 
 - **Armin Ronacher** (`@mitsuhiko <https://twitter.com/mitsuhiko>`_) — The creator of Flask, Click, Sphinx, and many other wonderful Python utilities we all know and love. Mostly found writing iOS and Rust code nowadays.
 
