@@ -23,7 +23,7 @@ I personally use and vastly prefer *Sublime Text 3* to all other options availab
     Nice–to–haves:
 
     - Support for "rulers", which show a vertical line after the 79th character, as PEP8 recommends.
-    - Built-in linter for showing sytax errors as you type.
+    - Built-in linter for showing syntax errors as you type.
     - Built-in support for Flake8, which enforces PEP8 standards as you type.
 
 

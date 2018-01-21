@@ -55,16 +55,16 @@ Here are some great installation guides for various system types:
 Understanding Dependencies
 --------------------------
 
-Applications, scripts, and utlities built with Python typicaly have *dependencies* attached to them, which are Python modules they require to run/operate with, that need to be installed before you can use the software.
+Applications, scripts, and utilities built with Python typically have *dependencies* attached to them, which are Python modules they require to run/operate with, that need to be installed before you can use the software.
 
-A package manager, like *Pipenv* (which we'll cover shortly), or the lower–level *pip* (in conjunction with *virtalenv* can be used to install and manage these dependencies, which are typically hosted on either on `PyPi (The Python Package Index) <https://pypi.python.org/>`_ or `GitHub <https://github.com/>`_.
+A package manager, like *Pipenv* (which we'll cover shortly), or the lower–level *pip* (in conjunction with *virtualenv* can be used to install and manage these dependencies, which are typically hosted on either on `PyPi (The Python Package Index) <https://pypi.python.org/>`_ or `GitHub <https://github.com/>`_.
 
 You'll typically see these required packages (and any specific versions) declared in one of the following files: ``Pipfile``, ``requirements.txt``, or ``setup.py``.
 
 Installing Pipenv
 -----------------
 
-The next step is to install *Pipenv*, our packaging tool of choice. Package mangers allow us to easily manage (resolve, install, uninstall) dependencies and virtual environments for projects.
+The next step is to install *Pipenv*, our packaging tool of choice. Package managers allow us to easily manage (resolve, install, uninstall) dependencies and virtual environments for projects.
 
 Python.org has a `great guide <https://packaging.python.org/tutorials/managing-dependencies/>`_ available for installing Pipenv that also covers its basic usage.
 
@@ -79,7 +79,7 @@ Using Pipenv
 
 First, ``$ cd`` into your new project directory (after you ``$ mkdir`` and ``$ git init`` it, of course), and simply run ``$ pipenv install requests`` to install the `requests <https://docs.python-requests.org/>`_ library, which is one of our favorites.
 
-Then, run ``$ pipenv shell`` to run a shell that will have a ``$ python`` available in which ``import reqests`` will function properly. Pretty simple :)
+Then, run ``$ pipenv shell`` to run a shell that will have a ``$ python`` available in which ``import requests`` will function properly. Pretty simple :)
 
 For further instructions, check out `the Pipenv documentation <https://pipenv.org>`_.
 
