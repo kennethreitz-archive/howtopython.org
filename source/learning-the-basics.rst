@@ -39,7 +39,7 @@ the `Python Software Foundation Wiki <http://wiki.python.org/moin/LocalUserGroup
 PEPs
 ----
 
-PEPs (*Python Enhncement Proposals*) are the documents/process through which Python gets enhanced and changed, over time.
+PEPs (*Python Enhancement Proposals*) are the documents/process through which Python gets enhanced and changed, over time.
 
 The most infamous PEP is `PEP8 <http://pep8.org/>`_, which documents how to properly style Python code within the community.
 

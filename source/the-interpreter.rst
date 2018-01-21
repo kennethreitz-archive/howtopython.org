@@ -1,7 +1,7 @@
 The Interpreter
 ===============
 
-Python is an interpreted language, similiar in the way to how Java operates, with bytecode. However, unlike Java, you will normally work with ``*.py`` files directly, instead of compiled bytecode files (``*.pyc``).
+Python is an interpreted language, similar in the way to how Java operates, with bytecode. However, unlike Java, you will normally work with ``*.py`` files directly, instead of compiled bytecode files (``*.pyc``).
 
 To fire up the Python interpreter, open up your terminal/console application, and type ``python`` or ``python3`` (depending on your installation). You should see something that looks like this::
 
@@ -10,7 +10,7 @@ To fire up the Python interpreter, open up your terminal/console application, an
 	Type "help", "copyright", "credits" or "license" for more information.
 	>>>
 
-This is known as the Python interpreter, and is a REPL (Read–Eval–Print Loop). This allows you to type Python code, import modules, and interact with code you've written without having to write files to disk, in an interactive manner. This interactive mode is one of Python's super-powers, compared some other programming lanuages.
+This is known as the Python interpreter, and is a REPL (Read–Eval–Print Loop). This allows you to type Python code, import modules, and interact with code you've written without having to write files to disk, in an interactive manner. This interactive mode is one of Python's super-powers, compared some other programming languages.
 
 Running a Script
 ----------------
@@ -24,7 +24,7 @@ This will tell Python to load and execute the script provided.
 Dependencies
 ++++++++++++
 
-Sometimes, a script will not run because it does not have the neccessary dependencies installed. You'll normally see this come across as a ``ModuleNotFoundError``, embedded within a confusing (if you're new) exception message::
+Sometimes, a script will not run because it does not have the necessary dependencies installed. You'll normally see this come across as a ``ModuleNotFoundError``, embedded within a confusing (if you're new) exception message::
 
     Traceback (most recent call last):
       File "name-of-script.py", line 1, in <module>
@@ -75,7 +75,7 @@ Bytecode Trick
 
 The second trick is ``PYTHONDONTWRITEBYTECODE``. If you set this environment variable (e.g. in your ``~/.bashrc`` file or similar), Python won't write ``*.pyc`` files to disk, which is great, because they are incredibly annoying.
 
-I've been using this environment variable for 7+ years for development and have never had any problems becaue of it.
+I've been using this environment variable for 7+ years for development and have never had any problems because of it.
 
 Interactive Mode Trick
 ++++++++++++++++++++++
