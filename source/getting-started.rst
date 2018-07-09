@@ -88,4 +88,4 @@ Understanding Source Control
 
 In the Python community, we typically use `git <https://git-scm.org/>`_, a *version control system*. Tools, like git, are used to store all changes to code files, so you can go back to any point in history and reference yourself later if needed. They are also very useful for collaborating with others.
 
-Git is a bit tricky to get started with, but `here's a great guide <https://git-scm.com/book/en/v1/Getting-Started>`_ that will get you setup and teach you the basics. It's a requirement if you're ever going to work with Python in a professional environment.
+Git is a bit tricky to get started with, but `here's a great guide <https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control>`_ that will get you setup and teach you the basics. It's a requirement if you're ever going to work with Python in a professional environment.
