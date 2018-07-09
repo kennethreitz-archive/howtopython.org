@@ -114,16 +114,20 @@ Additionally Helpful Plugins
     Common Django snippets for everyday use.
 
 Microsoft VS Code Tricks
-+++++++++++++++++++++
+++++++++++++++++++++++++
 
 Select a version of Python using *Ctrl + Shift + P*:
     "*Python: Select Interpreter*"
 
 You can run your code using the integrated terminal. Open it using *Ctrl + `*.
 
-``Microsoft VS Code`` Launcher
-/////////////////
+Microsoft VS Code Launcher
+++++++++++++++++++++++++++
+Mac: After installing VS Code, running code from the terminal as easy as typing ``code``
 
 
 Rulers
-//////
+++++++
+PEP8 compliant rulers can be added to VS Code by adding the following lines to your User Settings::
+
+        "editor.rulers": [72, 79]
